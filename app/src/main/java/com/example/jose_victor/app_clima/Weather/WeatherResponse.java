@@ -2,6 +2,7 @@ package com.example.jose_victor.app_clima.Weather;
 
 public class WeatherResponse {
     public WeatherResults getResults() {
+
         return results;
     }
 

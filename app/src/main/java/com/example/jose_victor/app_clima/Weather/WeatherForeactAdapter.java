@@ -10,6 +10,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.example.jose_victor.app_clima.R;
 import com.example.jose_victor.weather__.R;
 
 import java.util.List;
